@@ -1,0 +1,6 @@
+{
+  "name": "Brawl Arena",
+  "description": "2.5D Top-Down 3v3 Hero Shooter featuring Gem Grab, Takedown (Bounty), and Cash Grab modes with Bolt, Shelia, El Grande, and Spica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
